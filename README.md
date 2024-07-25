@@ -17,8 +17,6 @@ Instagram: [Capture the Root](https://www.instagram.com/capturetheroot/)
 <img src="https://i.imgur.com/inLFnLw.jpg" width="32%"></img>
 <img src="https://i.imgur.com/pmDqMDw.jpg" width="32%"></img>
 
-## 📹 How to use 📹
-[![How to use CYPHER TOOLS ](https://i.imgur.com/6x5DWge.png)](https://youtu.be/M4eq6JUMffI)
 
 Click on the image...
 
@@ -27,7 +25,7 @@ Click on the image...
 This tool **include:**
 + :round_pushpin:  HASH
 + :round_pushpin:  RSA               
-+ :round_pushpin:  XOR               
++ :round_pushpin:  XOr               
 + :round_pushpin:  AES (ECC)          
 + :round_pushpin:  AES (CBC)          
 + :round_pushpin:  DES (ECB)          
