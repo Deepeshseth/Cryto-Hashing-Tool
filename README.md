@@ -1,11 +1,11 @@
-# :rose:     &nbsp;         CYPHER   TOOLS      &nbsp; :rose: 
+# :rose:     &nbsp;         Crypto Hashing Tool      &nbsp; :rose: 
 
 <img src="https://i.imgur.com/iZmzKjF.png" width="60%"></img>
 
 
 #### Written by Deepesh Seth
 #### Version 1.0.0
-All in one tools for **CRYPTOLOGY**.
+All in one tools for **CRYPTOGRAHY**.
 
 <img src="https://i.imgur.com/DMmfX5F.jpg" width="32%"></img>
 <img src="https://i.imgur.com/cgAC6Oj.jpg" width="32%"></img>
@@ -35,23 +35,6 @@ This tool **include:**
 + :round_pushpin:  IMAGE ENCRYPT/DECRYPT
 + :round_pushpin:  FILE ENCRYPT/DECRYPT
 
-
-
-
-## 📀 Installation 📀
-### Installation with requirements.txt
-
-
-```bash
-git clone https://github.com/capture0x/cypher
-cd cypher
-pip3 install -r requirements.txt
-```
-## Usage
-
-```bash
-python3 cryptot.py
-```
 
 ### HASH
 
